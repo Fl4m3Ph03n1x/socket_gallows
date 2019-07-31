@@ -34,4 +34,4 @@ npm-debug.log
 /priv/static/
 
 # VSCode and plugins
-/.elixir_ls/
+.elixir_ls/
